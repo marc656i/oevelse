@@ -1,11 +1,5 @@
 <body>
-    <ul class="nav-area">
-        <li><a href="hjem.html">Hjem</a></li>
-        <li><a href="ommig.html">Om mig</a></li>
-        <li><a href="projekter.html">Projekter</a></li>
-        <li><a href="mitarbejde.html">Portfolio</a></li>
-        <li><a href="kontakt.html">Kontakt</a></li>
-    </ul>
+
     <div class="logo">
         <img src="/LOGO.png" alt="">
     </div>
