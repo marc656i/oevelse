@@ -43,9 +43,4 @@
         </div>
     </div>
 
-    <footer>
-        <div class="footer">
-            <p>Copyright © 2020 Marcus Sørensen</p>
-        </div>
-    </footer>
 </body>
