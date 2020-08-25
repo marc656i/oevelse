@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="about-text">
-                <h3>Hvem er jeg?</h3>
+                <h3>Om mig</h3>
                 <p>Mit navn er Marcus Sørensen, jeg er 24 år. Jeg bor i Odense, hvor jeg flyttede til for tre år siden,
                     efter at have haft hele min opvækst i Bogense. Jeg har spillet fodbold det meste af mit liv, hvor
                     jeg startede som meget ung i en lokal klub der hedder Skovby GF. Herefter blev jeg som u15 hentet
